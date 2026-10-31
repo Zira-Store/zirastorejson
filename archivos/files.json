@@ -1,8 +1,0 @@
- {
-        "id": "me.zhanghai.android.files",
-        "name": "MaterialFiles",
-        "description": "Administrador open-source de archivos a Android",
-        "license": "GPLv3",
-        "source": "https://github.com/zhanghai/MaterialFiles",
-        "apk": "app-release-universal.apk"
-      }
