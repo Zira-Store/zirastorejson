@@ -1,0 +1,29 @@
+ "example": {
+
+   "id": "url.app",
+   "name": "AppName",
+   "description": "App Description",
+   "license": "BSD",
+   "source": "link-repo",
+   "apk": "name.apk"
+
+     "apps": [
+       {
+        "id": "me.zhanghai.android.files",
+        "name": "MaterialFiles",
+        "description": "Administrador open-source de archivos a Android",
+        "license": "GPLv3",
+        "source": "https://github.com/zhanghai/MaterialFiles",
+        "apk": "app-release-universal.apk"
+      },
+       
+      {
+        "id": "org.schabi.newpipe",
+        "name": "NewPipe",
+        "description": "reproducir contenido de YouTube y otros sin Google.",
+        "license": "GPLv3",
+        "source": "https://github.com/TeamNewPipe/NewPipe",
+        "apk": "NewPipe_v0.29.1.apk"
+      }
+     
+        
