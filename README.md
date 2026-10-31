@@ -18,3 +18,9 @@ gestor/
 otros.
 
 En la Wiki puedes encontrar documentación acerca de Zira. 
+
+### En 2027
+
+Zira Store está bajo amenaza, Google quiere cambiar la forma en la que instalas apps en tu dispositivo. Ahora, para 2027 puede que Zira NO funcione en dispositivos certificados por Google
+
+Para más información: [Keep Android Open](https://keepandroidopen.org/es/)
