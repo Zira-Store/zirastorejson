@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": "multimedia",
+    "name": "Multimedia",
+    "description": "Apps para reproducir y gestionar contenido multimedia.",
+
+    "apps": [
+      {
+        "id": "org.schabi.newpipe",
+        "name": "NewPipe",
+        "description": "reproducir contenido de YouTube y otros sin Google.",
+        "license": "GPLv3",
+        "source": "https://github.com/TeamNewPipe/NewPipe",
+        "apk": "NewPipe_v0.29.1.apk"
+      }
+     
+        
